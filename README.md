@@ -4,6 +4,13 @@ Content and demand gen lead at 1Kosmos, where I manage inbound (organic + paid),
 
 Since 2020, I've gone from sales to freelance copywriting, then agency-side marketing, in-house content management, and search (SEO/AEO). Now, I'm building MarOps and RevOps systems that span all these disciplines and align inbound + outbound efforts.
 
+## Lately
+- Leading content marketing and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
+- Building [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
+- Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
+
+---
+
 ## 📚 Current side project: DidRead
 **[didread.app](https://didread.app)** is an iPhone app that builds reading comprehension in a few minutes a day: a short daily read, one question, and instant feedback on your answer.
 
@@ -14,13 +21,6 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 - Not an AI wrapper: the reads are written and fact-checked in advance, the progression engine is deterministic code, and most activities are scored by code. AI does one narrow job, scoring written answers against a fixed rubric
 
 **Built with:** React Native (Expo), Supabase, OpenAI API, TypeScript
-
----
-
-## Lately
-- Leading content marketing and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
-- Building [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
-- Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
 
 ---
 
