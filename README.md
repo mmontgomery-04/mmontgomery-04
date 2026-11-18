@@ -14,7 +14,7 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 
 **[didread.app](https://didread.app)** is an iPhone app that builds reading comprehension in a few minutes a day: a short daily read, one question, and instant feedback on your answer.
 
-- Built and launched to a public TestFlight beta as a non-engineer, using AI coding tools (Claude Code)
+- Built and launched to a public TestFlight beta using AI coding tools (vibed with Claude)
 - Wrote 60+ original exercises across four reading skills and four difficulty levels
 - Designed scoring rubrics for AI feedback, plus a calibration process that tests every rubric with sample answers until the AI scores them consistently
 - Built the website, blog and research-backed articles on AI and how we think
