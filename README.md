@@ -11,6 +11,7 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 - Wrote 60+ original exercises across four reading skills and four difficulty levels
 - Designed scoring rubrics for AI feedback, plus a calibration process that tests every rubric with sample answers until the AI scores them consistently
 - Built the website, blog and research-backed articles on AI and how we think
+- Not an AI wrapper: the reads are written and fact-checked in advance, the progression engine is deterministic code, and most activities are scored by code. AI does one narrow job, scoring written answers against a fixed rubric
 
 **Built with:** React Native (Expo), Supabase, OpenAI API, TypeScript
 
