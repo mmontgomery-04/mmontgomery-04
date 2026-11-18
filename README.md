@@ -9,8 +9,6 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 - Building [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
 - Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
 
----
-
 ## 📚 Current side project: DidRead
 
 **[didread.app](https://didread.app)** is an iPhone app that builds reading comprehension in a few minutes a day: a short daily read, one question, and instant feedback on your answer.
@@ -22,8 +20,6 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 - Not an AI wrapper: the reads are written and fact-checked in advance, the progression engine is deterministic code, and most activities are scored by code. AI does one narrow job, scoring written answers against a fixed rubric
 
 **Built with:** React Native (Expo), Supabase, OpenAI API, TypeScript
-
----
 
 [![DIDREAD.APP](https://img.shields.io/badge/DIDREAD.APP-555555?style=for-the-badge)](https://didread.app)
 [![BRIGHTONSEO](https://img.shields.io/badge/BRIGHTONSEO-F25C54?style=for-the-badge)](https://brightonseo.com/people/monty-montgomery)
