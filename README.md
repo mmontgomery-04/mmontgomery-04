@@ -1,8 +1,10 @@
 # I'm Monty ✌️
 
-Content marketing and demand generation manager who builds AI products. I use AI coding tools to turn ideas into shipped apps, and I bring a marketer's eye to content quality, positioning and launch.
+Content and demand gen lead at 1Kosmos, where I manage inbound (organic and paid), messaging, and optimize marketing ops workflows.
 
-## 📚 Current project: DidRead
+Since 2020, I've gone from sales to freelance copywriting, then agency-side marketing, content management, and search (SEO/AEO). Now, I'm building MarOps and RevOps systems that span all these disciplines and align inbound + outbound efforts.
+
+## 📚 Current side project: DidRead
 **[didread.app](https://didread.app)** is an iPhone app that builds reading comprehension in a few minutes a day: a short daily read, one question, and instant feedback on your answer.
 
 - Built and launched to a public TestFlight beta as a non-engineer, using AI coding tools (Claude Code)
