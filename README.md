@@ -12,6 +12,7 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 ---
 
 ## 📚 Current side project: DidRead
+
 **[didread.app](https://didread.app)** is an iPhone app that builds reading comprehension in a few minutes a day: a short daily read, one question, and instant feedback on your answer.
 
 - Built and launched to a public TestFlight beta as a non-engineer, using AI coding tools (Claude Code)
