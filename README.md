@@ -10,7 +10,7 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 - [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
 - Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
 
-## 📚 On the side
+## On the side
 
 **[didread.app](https://didread.app)** is an iPhone app that builds reading comprehension in a few minutes a day: a short daily read, one question, and instant feedback on your answer.
 
