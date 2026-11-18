@@ -1,6 +1,6 @@
 # I'm Monty ✌️
 
-Content and demand gen lead at 1Kosmos, where I manage inbound (organic and paid), messaging, and build agentic systems.
+Content and demand gen lead at 1Kosmos, where I manage inbound (organic + paid), messaging, and build agentic systems that don't spit slop.
 
 Since 2020, I've gone from sales to freelance copywriting, then agency-side marketing, content management, and search (SEO/AEO). Now, I'm building MarOps and RevOps systems that span all these disciplines and align inbound + outbound efforts.
 
