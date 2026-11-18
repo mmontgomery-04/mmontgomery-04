@@ -5,7 +5,8 @@ Content and demand gen lead at 1Kosmos, where I manage inbound (organic + paid),
 Since 2020, I've gone from sales to freelance copywriting, then agency-side marketing, in-house content management, and search (SEO/AEO). Now, I'm building MarOps and RevOps systems that span all these disciplines and align inbound + outbound efforts.
 
 ## Lately
-- Leading content marketing and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
+- Leading content marketing, search, and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
+  - Builds: Blog Automator, GAds Keyword Optimizer, 1-Pager Generator, Stakeholder Dashboard
 - Building [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
 - Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
 
