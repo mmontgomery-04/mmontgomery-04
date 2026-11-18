@@ -6,7 +6,7 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 
 ## Lately
 - Leading content marketing, search, and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
-  - **Builds:** Blog Automator, GAds Keyword Optimizer, 1-Pager Generator, Stakeholder Dashboard
+  - **Builds:** Blog Automator, GAds Keyword Optimizer, 1-Pager Generator, [Stakeholder Dashboard](https://github.com/mmontgomery-04/marketing-stakeholder-dashboard)
 - [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
 - Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
 
@@ -20,7 +20,9 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 - Built the website, blog and research-backed articles on AI and how we think
 - Not an AI wrapper: the reads are written and fact-checked in advance, the progression engine is deterministic code, and most activities are scored by code. AI does one narrow job, scoring written answers against a fixed rubric
 
-**Built with:** React Native (Expo), Supabase, OpenAI API, TypeScript
+**Built with:** React Native (Expo), Supabase, OpenAI API, TypeScript · **Code:** [didread-app](https://github.com/mmontgomery-04/didread-app)
+
+**[Marketing Skills 2027](https://github.com/mmontgomery-04/marketingskills-2027)** is a library of 32 marketing skills for AI agents (Claude Code, Codex, Cursor), from SEO and AI search to ABM, RevOps, and copywriting.
 
 [![DIDREAD.APP](https://img.shields.io/badge/DIDREAD.APP-555555?style=for-the-badge)](https://didread.app)
 [![BRIGHTONSEO](https://img.shields.io/badge/BRIGHTONSEO-F25C54?style=for-the-badge)](https://brightonseo.com/people/monty-montgomery)
