@@ -7,7 +7,7 @@ Since 2020, I've gone from sales to freelance copywriting, then agency-side mark
 ## Lately
 - Leading content marketing, search, and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
   - **Builds:** Blog Automator, GAds Keyword Optimizer, 1-Pager Generator, Stakeholder Dashboard
-- Building [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
+- [DidRead](https://didread.app), a daily reading app with AI feedback, now in public beta
 - Spoke at [BrightonSEO 2025](https://brightonseo.com/people/monty-montgomery), my first speaking gig
 
 ## 📚 Current side project: DidRead
