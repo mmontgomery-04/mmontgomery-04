@@ -2,7 +2,7 @@
 
 Content and demand gen lead at 1Kosmos, where I manage inbound (organic + paid), messaging, and build agentic systems that don't spit slop.
 
-Since 2020, I've gone from sales to freelance copywriting, then agency-side marketing, in-house content management, and search (SEO/AEO). Now, I'm building MarOps and RevOps systems that span all these disciplines and align inbound + outbound efforts.
+Since 2020, I've gone from sales to freelance copywriting, then agency-side marketing, in-house content management, and search (SEO/AEO). Now, I'm building MarOps and RevOps systems that span all these disciplines.
 
 ## Lately
 - Leading content marketing, search, and demand generation at [1Kosmos](https://www.1kosmos.com) (since November 2025)
